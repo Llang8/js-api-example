@@ -1,0 +1,169 @@
+[
+    {
+        "id": "1",
+        "firstName": "Derek",
+        "lastName": "Hawkins",
+        "occupation": "Software Engineer",
+        "email": "derekh@codingtemple.com",
+        "skills": {
+            "Python": 10,
+            "JavaScript": 8,
+            "SQL": 7,
+            "PHP": 6,
+            "Java": 5
+        }
+    },
+    {
+        "id": "e",
+        "firstName": "Lucas",
+        "lastName": "Lang",
+        "occupation": "Software Engineer",
+        "email": "lucasl@codingtemple.com",
+        "skills": {
+            "Python": 6,
+            "JavaScript": 8,
+            "SQL": 5,
+            "PHP": 7,
+            "Java": 7
+        }
+    },
+    {
+        "id": "f",
+        "firstName": "Frank",
+        "lastName": "Goshko",
+        "occupation": "Clown",
+        "email": "frank@codingtemple.com",
+        "skills": {
+            "Python": 1,
+            "JavaScript": 1,
+            "SQL": 1,
+            "PHP": 1,
+            "Java": 1
+        }
+    },
+    {
+        "id": "abc123",
+        "firstName": "Derek",
+        "lastName": "McNerney",
+        "occupation": "Underwater Basket Weaver",
+        "email": "derekm@codingtemple.com",
+        "skills": {
+            "Python": 4,
+            "JavaScript": 5,
+            "SQL": 9000,
+            "PHP": 0,
+            "Java": 0
+        }
+    },
+    {
+        "id": "ZOOM",
+        "firstName": "Jay",
+        "lastName": "Patel",
+        "occupation": "Software Engineer",
+        "email": "jayp@codingtemple.com",
+        "skills": {
+            "Python": 4,
+            "JavaScript": 2,
+            "SQL": 6,
+            "Java": 3
+        }
+    },
+    {
+        "id": "7",
+        "firstName": "Jonathan",
+        "lastName": "Chagolla",
+        "occupation": "Software Engineer",
+        "email": "jonc@codingtemple.com",
+        "skills": {
+            "Python": 4,
+            "JavaScript": 3,
+            "SQL": 5,
+            "PHP": 0,
+            "Java": 0
+        }
+    },
+    {
+        "id": "D",
+        "firstName": "Darren",
+        "lastName": "Tran",
+        "occupation": "Data Scientist",
+        "email": "darren-tran@hotmail.com",
+        "skills": {
+            "Python": 7,
+            "JavaScript": 5,
+            "SQL": 7,
+            "Java": 5
+        }
+    },
+    {
+        "id": "92",
+        "firstName": "Albert",
+        "lastName": "Camus",
+        "occupation": "Freelancer",
+        "email": "plague@stranger.com",
+        "skills": {
+            "Python": 1,
+            "JavaScript": 7,
+            "SQL": 92,
+            "PHP": 0,
+            "Java": 0
+        }
+    },
+    {
+        "id": "what",
+        "firstName": "David",
+        "lastName": "hot daddy",
+        "occupation": "Software Engineer",
+        "email": "davidrivera@codingtemple.com",
+        "skills": {
+            "Python": 0,
+            "JavaScript": 0,
+            "SQL": 0,
+            "PHP": 0,
+            "Java": -2
+        }
+    },
+    {
+        "id": "4",
+        "firstName": "Ben",
+        "lastName": "Peterson",
+        "occupation": "Student",
+        "email": "bengaryp@gmail.com",
+        "skills": {
+            "Python": 4,
+            "JavaScript": 1,
+            "SQL": 2,
+            "PHP": 0,
+            "Java": 1
+        }
+    },
+    {
+        "id": "823975",
+        "firstName": "Brandon",
+        "lastName": "Tate",
+        "occupation": "Scientist",
+        "email": "bst72@nau.edu",
+        "skills": {
+            "Python": 5,
+            "JavaScript": 2,
+            "SQL": 0,
+            "PHP": 6,
+            "mad science": 9001,
+            "humor": 9000
+        }
+    },
+    {
+        "id": "R",
+        "firstName": "RJ",
+        "lastName": "Anderson",
+        "occupation": "firestarter",
+        "email": "Randerson723@gmail.com",
+        "skills": {
+            "Python": 3,
+            "JavaScript": 2,
+            "SQL": 7,
+            "BS_Meter": 12,
+            "Athleticism": 24
+        }
+    }
+]

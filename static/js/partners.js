@@ -1,18 +1,16 @@
-/* fetch('https://ct-mock-tech-assessment.herokuapp.com/')
+fetch('https://ct-mock-tech-assessment.herokuapp.com/')
     .then((res) => res.json())
     .then((data) => {
-
         populatePartners(data.partners)
-        
-    }) */
+    })
 
-const getData = async () => {
+/* const getData = async () => {
     let res = await fetch('https://ct-mock-tech-assessment.herokuapp.com/')
     let data = await res.json()
     populatePartners(data.partners)
 }
 
-getData()
+getData() */
 
 function populatePartners(people) {
     partnersList.innerHTML = ''
